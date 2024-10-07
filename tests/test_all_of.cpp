@@ -1,5 +1,6 @@
 #include <boost/ut.hpp>
 #include <algorithm>
+#include <vector>
 #include "algorithms.hpp"
 
 int main() {
