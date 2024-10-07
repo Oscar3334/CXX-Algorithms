@@ -2,9 +2,9 @@ This project uses C++, CMake, and Boost ut for unit testing. This is my attempt 
 
 To run the code, clone this repo and run these commands.
 ```bash
-$ mkdir build
-$ cd build
-$ cmake ..
-$ cmake --build .
-$ ctest
+mkdir build
+cd build
+cmake ..
+cmake --build .
+ctest
 ```
